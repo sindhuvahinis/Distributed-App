@@ -1,4 +1,4 @@
-#Project Manual
+# Project Manual
 
 Single-threaded Server-Client application which provides the service of Key-Value store with PUT
 /GET/DELETE operations.
